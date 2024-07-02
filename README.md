@@ -7,3 +7,5 @@ The Roll Dice app offers users a straightforward yet interactive experience. By 
 Here is the demo of the app:
 
 [Watch the video](roll_dice_app_video.mp4)
+
+(You have to download the video to watch it)
